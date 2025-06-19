@@ -9,3 +9,4 @@ Le département Maine-et-Loire (49) est un département français qui se situe d
 
 
 Ce dossier repose sur des données statistiques qui sont issues de l’INSEE. Il est composé de cartes thématiques et d’analyses spatiales pour permettre de montrer les différents mécanismes qui nourrissent les inégalités scolaires sur ce territoire. 
+![]({% link images/Capture d'écran 2025-06-19 111305.png %}) 
