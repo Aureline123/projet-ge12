@@ -3,7 +3,6 @@ title: "Représentations graphiques"
 order: 2
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+![]({% link images/Capture d'écran 2025-06-20 212440.png %})
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-` 
+La carte du taux de réussite au Diplôme National du Brevet (DNB) par régions révèle des disparités importantes sur le territoire français. La région des Pays de la Loire, à laquelle appartient le département du Maine-et-Loire, se distingue par un taux de réussite élevé, supérieur à 93,4 %, la plaçant parmi les régions les plus performantes, aux côtés de la Bretagne ou encore de la Provence-Alpes-Côte d’Azur. Ces bons résultats peuvent s’expliquer par de nombreux facteurs que nous allons tenter de déterminer dans la suite de notre analyse. 
