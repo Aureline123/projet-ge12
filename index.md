@@ -4,6 +4,8 @@ order: 0
 in_menu: true
 ---
 ![]({% link images/Capture d'écran 2025-06-21 202508.png %})
+<img src="chemin/vers/image.jpg" width="300" alt="">
+
 # Introduction
 
 Aujourd’hui, alors que des coupes budgétaires sont opérées dans les écoles aux États-Unis, les inégalités scolaires restent profondément ancrées dans notre monde actuel et sont considérées comme un enjeu majeur de notre société. Actuellement, 90 % des élèves en âge de passer le baccalauréat obtiennent leur diplôme. Au début du XXe siècle, ce pourcentage était de 2 %, et les élèves concernés étaient issus exclusivement des classes favorisées.
