@@ -3,8 +3,8 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![]({% link images/Capture d'écran 2025-06-21 202508.png %})
-<img src="images/Capture d'écran 2025-06-21 202508.png" width="100" alt="">
+<img src="images/Capture_ecran_2025-06-21_202508.png" width="300" alt="">
+
 
 # Introduction
 
