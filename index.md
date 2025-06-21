@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 ![]({% link images/Capture d'écran 2025-06-21 202508.png %})
-<img src="chemin/vers/image.jpg" width="300" alt="">
+<img src="chemin/vers/image.jpg" width="100" alt="">
 
 # Introduction
 
