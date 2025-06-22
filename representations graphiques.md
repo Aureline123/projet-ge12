@@ -22,7 +22,7 @@ La carte du taux de réussite au Diplôme National du Brevet (DNB) par régions 
 
 
 #### Précarité sociale
-!]({% link images/rsa.png %})
+![]({% link images/rsa.png %})
 #### Eloignement des établissements 
 ![]({% link images/indice d'eloignement.jpg %})
 
