@@ -14,7 +14,10 @@ La carte du taux de réussite au Diplôme National du Brevet (DNB) par régions 
 
 #### Collèges privés et publics
 
-![Texte décrivant l'image]({% link images/repartition-des-colleges-prives.png %})
+<figure style="text-align: center;">
+  <img src="images/repartition-des-colleges-prives.png" alt="Répartition des collèges privés">
+  <figcaption><em>Carte 2</em>.</figcaption>
+</figure>
 
 Cette carte croise le taux de réussite au DNB et le nombre de collèges privés par département en France. On remarque que plusieurs départements de l’Ouest, comme la Bretagne, la Vendée ou le Maine-et-Loire, affichent à la fois un grand nombre d’établissements privés et un taux de réussite au brevet très élevé. On peut suggérer une possible corrélation entre le nombre de collèges privés et la réussite scolaire. 
 
@@ -22,11 +25,17 @@ Cependant, ce lien doit être nuancé : dans certains territoires plus ruraux ou
 Ainsi, cette carte est utile pour repérer certaines tendances, mais elle doit être analysée avec prudence, en tenant compte du contexte à l'échelle locale. 
 
 
-![Texte décrivant l'image]({% link images/nombres-de-candidats-et-taux-de-reussite.png %})
+<figure style="text-align: center;">
+  <img src="images/nombres-de-candidats-et-taux-de-reussite.png" alt="Nombre de candidats et taux de réussite">
+  <figcaption><em>Carte 3</em>.</figcaption>
+</figure>
 
 Il apparaît que le taux de réussite au DNB le plus élevé concerne les départements de Loire Atlantique et de la Mayenne. En revanche, celui qui enregistre le plus faible est la Sarthe, et dans ce dernier département les collèges publics présentent davantage de candidats. Enfin concernant les départements de la Vendée et du Maine et Loire les résultats au DNB sont globalement très bons et la répartition entre élèves du public et du privé est assez homogène. Dans ces deux exemples, les élèves sont légèrement plus nombreux à venir du public que du privé. Il est évident que ces données ne permettent pas d'établir avec certitude de lien puisque le taux de réussite renseigné est global et non distinct selon l’origine des élèves. Il convient alors d’étudier le taux de réussite au DNB dans le privé et dans le public pour affiner le lien entre réussite et collège d’origine
 
-![Texte décrivant l'image]({% link images/taux-de-reussite-et-colleges-prives-region.jpg %})
+<figure style="text-align: center;">
+  <img src="images/taux-de-reussite-et-colleges-prives-region.jpg" alt="Taux de réussite et collèges privés par région">
+  <figcaption><em>Carte 4</em>.</figcaption>
+</figure>
 
 L’étude comparée du taux de réussite au DNB dans les établissements privés et publics des départements de la région Pays de la Loire montre très clairement des disparités notables entre les deux types d’établissements.
 
@@ -40,9 +49,15 @@ Cette comparaison met clairement en évidence une tendance régionale : les coll
 
 #### Absentéisme des enseignants
 
-![Texte décrivant l'image]({% link images/nombre-heure-absences-nationale.png %})
+<figure style="text-align: center;">
+  <img src="images/nombre-heure-absences-nationale.png" alt="Nombre d'heures d'absences - nationale">
+  <figcaption><em>Carte 5 </em>.</figcaption>
+</figure>
 
-![Texte décrivant l'image]({% link images/nombre-heures-absences-regions.png %})
+<figure style="text-align: center;">
+  <img src="images/nombre-heures-absences-regions.png" alt="Nombre d'heures d'absences - régions">
+  <figcaption><em>Carte 6</em>.</figcaption>
+</figure>
 
 Ces cartes montrent le nombre d’heures d’absence des professeurs ainsi que le taux de réussite au brevet dans chaque département en France et plus précisément dans la région Pays de la Loire. Nous nous sommes intéressés au nombre d’heures d’absence car cela s’inscrit pleinement dans l’analyse des inégalités scolaires, dans la mesure où cela touche à une inégalité directe d’accès à l’enseignement. En effet, les heures de cours manquées représentent un désavantage pour les élèves concernés, en raison du manque de savoirs ou d’entraînements transmis. Ces absences ne peuvent pas être compensées par des cours de soutien ou une aide familiale dans les milieux défavorisés.
 
@@ -59,7 +74,10 @@ Néanmoins, deux cas viennent nuancer cette relation : les départements de la L
 
 #### Précarité sociale
 
-![Texte décrivant l'image]({% link images/rsa.png %})
+<figure style="text-align: center;">
+  <img src="images/rsa.png" alt="RSA">
+  <figcaption><em>Carte 7</em>.</figcaption>
+</figure>
 
 Sur cette carte, nous avons voulu vérifier si l’intuition selon laquelle il pourrait exister une corrélation entre précarité sociale et réussite scolaire se confirmait. Les résultats ne sautent pas aux yeux immédiatement. Néanmoins, si l’on se focalise sur le centre urbain du département, on peut noter une assez forte concentration de foyers précaires où le taux de réussite au brevet est compris entre 85 % et 77 %, ce qui est relativement faible sur notre échelle. Tandis que, dans quelques communes du centre et de l’Est où le taux de réussite au brevet est de 100 %, on observe que le nombre de foyers précaires y est assez bas.
 
@@ -74,7 +92,10 @@ Tout cela reste à nuancer, surtout en raison du manque de données sur de nombr
 
 #### Eloignement des établissements 
 
-![Texte décrivant l'image]({% link images/age-moyen.png %})
+<figure style="text-align: center;">
+  <img src="images/age-moyen.png" alt="Age moyen">
+  <figcaption><em>Carte 8</em>.</figcaption>
+</figure>
 
 Cette carte permet de visualiser la répartition des collèges privés et publics de Maine-et-loire ainsi que l’âge moyen par commune de ce territoire. Nous pouvons alors remarquer que les communes dont l’âge moyen est le plus haut présentent un faible nombre de collèges. Cependant, ce ne sont pas les territoires nécéssitant des collèges en priorité. On observe également que beaucoup de communes où la population est la plus jeune possèdent des établissements. On peut supposer que la majorité des étudiants se localisent dans les communes où l’âge moyen est le plus faible et donc que la distance école-domicile est souvent faible. 
 
@@ -84,7 +105,10 @@ Une distance école-domicile pourrait influer sur la réussite scolaire des él�
 
 Ainsi, on peut conclure sur la bonne répartition des collèges dans le département Maine-et-Loire et sur le faible impact de la distance école-domicile sur la réussite au Diplôme National du Brevet dans ce département.
 
-![Texte décrivant l'image]({% link images/indice-d'eloignement.jpg %})
+<figure style="text-align: center;">
+  <img src="images/indice-d'eloignement.jpg" alt="Indice d'éloignement">
+  <figcaption><em>Carte 9</em>.</figcaption>
+</figure>
 
 Cette carte permet de croiser l’indice d’éloignement moyen des collèges avec le nombre de mentions obtenues par départements. Nous observons notamment que le département de la Loire-Atlantique est le département ayant obtenu le plus de mentions au Diplôme National du brevet et ayant un indice d’éloignement le plus faible. On peut également une corrélation pour le département Mayenne qui possède l’indice d’éloignement le plus haut et le nombre de mentions le plus faible. L’indice d’éloignement correspond à une distance école-domicile moyenne par département. Comme évoqué précédemment dans une autre carte, cette distance doit être la plus faible possible afin de ne pas générer de la fatigue et du stress aux collégiens. 
 
