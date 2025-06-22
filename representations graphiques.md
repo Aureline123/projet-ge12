@@ -21,7 +21,7 @@ La carte du taux de réussite au Diplôme National du Brevet (DNB) par régions 
 
 Cette carte croise le taux de réussite au DNB et le nombre de collèges privés par département en France. On remarque que plusieurs départements de l’Ouest, comme la Bretagne, la Vendée ou le Maine-et-Loire, affichent à la fois un grand nombre d’établissements privés et un taux de réussite au brevet très élevé. On peut suggérer une possible corrélation entre le nombre de collèges privés et la réussite scolaire. 
 
-Cependant, ce lien doit être nuancé : dans certains territoires plus ruraux ou faiblement peuplés comme par exemple le Massif central, le sud de la France, ou le centre-est, la faible présence de collèges privés peut aussi s'expliquer par une démographie plus faible, c’est-à-dire moins d’élèves, donc moins d’établissements en général, publics comme privés. Le nombre de collèges privés ne reflète donc pas uniquement un choix ou une préférence éducative, mais dépend aussi du nombre de collégiens dans les départements. 
+Cependant, ce lien doit être nuancé : dans certains territoires plus ruraux ou faiblement peuplés comme le Massif central, le sud de la France, ou le centre-est, la faible présence de collèges privés peut aussi s'expliquer par une démographie plus faible, c’est-à-dire moins d’élèves, donc moins d’établissements en général, publics comme privés. Le nombre de collèges privés ne reflète donc pas uniquement un choix ou une préférence éducative, mais dépend aussi du nombre de collégiens dans les départements. 
 Ainsi, cette carte est utile pour repérer certaines tendances, mais elle doit être analysée avec prudence, en tenant compte du contexte à l'échelle locale. 
 
 
@@ -30,7 +30,7 @@ Ainsi, cette carte est utile pour repérer certaines tendances, mais elle doit �
   <figcaption><em>Carte 3</em>.</figcaption>
 </figure>
 
-Il apparaît que le taux de réussite au DNB le plus élevé concerne les départements de Loire Atlantique et de la Mayenne. En revanche, celui qui enregistre le plus faible est la Sarthe, et dans ce dernier département les collèges publics présentent davantage de candidats. Enfin concernant les départements de la Vendée et du Maine et Loire les résultats au DNB sont globalement très bons et la répartition entre élèves du public et du privé est assez homogène. Dans ces deux exemples, les élèves sont légèrement plus nombreux à venir du public que du privé. Il est évident que ces données ne permettent pas d'établir avec certitude de lien puisque le taux de réussite renseigné est global et non distinct selon l’origine des élèves. Il convient alors d’étudier le taux de réussite au DNB dans le privé et dans le public pour affiner le lien entre réussite et collège d’origine
+Il apparaît que le taux de réussite au DNB le plus élevé concerne les départements de Loire-Atlantique et de la Mayenne. En revanche, celui qui enregistre le plus faible est la Sarthe, et dans ce dernier département les collèges publics présentent davantage de candidats. Enfin concernant les départements de la Vendée et du Maine-et-Loire les résultats au DNB sont globalement très bons et la répartition entre élèves du public et du privé est assez homogène. Dans ces deux exemples, les élèves sont légèrement plus nombreux à venir du public que du privé. Il est évident que ces données ne permettent pas d'établir avec certitude de lien puisque le taux de réussite renseigné est global et non distinct selon l’origine des élèves. Il convient alors d’étudier le taux de réussite au DNB dans le privé et dans le public pour affiner le lien entre réussite et collège d’origine.
 
 <figure style="text-align: center;">
   <img src="images/taux-de-reussite-et-colleges-prives-region.jpg" alt="Taux de réussite et collèges privés par région">
@@ -39,13 +39,13 @@ Il apparaît que le taux de réussite au DNB le plus élevé concerne les dépar
 
 L’étude comparée du taux de réussite au DNB dans les établissements privés et publics des départements de la région Pays de la Loire montre très clairement des disparités notables entre les deux types d’établissements.
 
-Dans les collèges publics, les taux de réussite varient sensiblement d’un département à l’autre. Le Maine et Loire enregistre des résultats plus faibles, avec un taux avoisinant les 82 %. À l’inverse, la Loire Atlantique et la Sarthe présentent des taux de réussite plus élevés, atteignant jusqu’à 88 %.
+Dans les collèges publics, les taux de réussite varient sensiblement d’un département à l’autre. Le Maine-et-Loire enregistre des résultats plus faibles, avec un taux avoisinant les 82 %. À l’inverse, la Loire-Atlantique et la Sarthe présentent des taux de réussite plus élevés, atteignant jusqu’à 88 %.
 
 En revanche, les collèges privés présentent une forte homogénéité avec des taux de réussite très élevés, de l’ordre de 96 %. Seule La Vendée présente un taux est légèrement plus faible, autour de 95 %, mais reste néanmoins supérieur à ceux observés dans les collèges publics.
 
 L’écart entre les deux types d’établissements est particulièrement frappant. Il atteint parfois plus de 10 % de différence en termes de taux de réussite. Cette observation soulève des questions importantes sur l’équité du système éducatif. 
 
-Cette comparaison met clairement en évidence une tendance régionale : les collèges privés obtiennent de meilleurs résultats au DNB que les collèges publics
+Cette comparaison met clairement en évidence une tendance régionale : les collèges privés obtiennent de meilleurs résultats au DNB que les collèges publics.
 
 #### Absentéisme des enseignants
 
@@ -59,9 +59,9 @@ Cette comparaison met clairement en évidence une tendance régionale : les coll
   <figcaption><em>Carte 6</em>.</figcaption>
 </figure>
 
-Ces cartes montrent le nombre d’heures d’absence des professeurs ainsi que le taux de réussite au brevet dans chaque département en France et plus précisément dans la région Pays de la Loire. Nous nous sommes intéressés au nombre d’heures d’absence car cela s’inscrit pleinement dans l’analyse des inégalités scolaires, dans la mesure où cela touche à une inégalité directe d’accès à l’enseignement. En effet, les heures de cours manquées représentent un désavantage pour les élèves concernés, en raison du manque de savoirs ou d’entraînements transmis. Ces absences ne peuvent pas être compensées par des cours de soutien ou une aide familiale dans les milieux défavorisés.
+Ces cartes montrent le nombre d’heures d’absence des professeurs ainsi que le taux de réussite au brevet dans chaque département en France et plus précisément dans la région Pays de la Loire. Nous nous sommes intéressés au nombre d’heures d’absence, car cela s’inscrit pleinement dans l’analyse des inégalités scolaires, dans la mesure où cela touche à une inégalité directe d’accès à l’enseignement. En effet, les heures de cours manquées représentent un désavantage pour les élèves concernés, en raison du manque de savoirs ou d’entraînements transmis. Ces absences ne peuvent pas être compensées par des cours de soutien ou une aide familiale dans les milieux défavorisés.
 
-Dans les départements des Pays de la Loire (carte X), on observe un fort taux de réussite (aux alentours de 93,4 %) et un nombre d’heures d’absence des professeurs entre moyen et faible. On peut également remarquer au Nord-Ouest, un taux de réussite relativement bon et très peu d’heures d’absence de professeurs.  
+Dans les départements des Pays de la Loire (carte 6), on observe un fort taux de réussite (aux alentours de 93,4 %) et un nombre d’heures d’absence des professeurs entre moyen et faible. On peut également remarquer au Nord-Ouest, un taux de réussite relativement bon et très peu d’heures d’absence de professeurs.  
 
 Néanmoins, on ne peut pas établir de corrélation directe entre ces deux facteurs. Par exemple, on remarque qu’il y a très peu d’heures d’absence dans la “diagonale de faible densité”, mais cela peut s’expliquer par une faible densité de population, et donc un nombre réduit de professeurs par rapport à d’autres régions.
 
@@ -70,7 +70,6 @@ Cela montre que l’absence des enseignants ne suffit pas, à elle seule, à exp
 À une autre échelle, en se focalisant sur les départements de notre région, on remarque qu’en Mayenne, le taux de réussite est le plus élevé et le nombre d’heures d’absence est le plus faible. On retrouve la tendance inverse dans le département de la Sarthe, où le taux de réussite au brevet est le plus faible, et où le nombre d’heures d’absence est moyen. On pourrait y voir une corrélation.
 
 Néanmoins, deux cas viennent nuancer cette relation : les départements de la Loire-Atlantique et du Maine-et-Loire, où le taux de réussite est élevé malgré un nombre d’heures d’absence également élevé. Comme vu précédemment, on ne peut donc pas tirer de conclusion définitive.
-
 
 #### Précarité sociale
 
