@@ -5,7 +5,7 @@ in_menu: true
 ---
 #### Taux de réussite au brevet par régions
 <figure style="text-align: center;">
-  <img src="/images/taux-de-reussite.png" alt="Carte 1">
+  <img src="images/taux-de-reussite.png" alt="Carte 1">
   <figcaption><em>Carte 1</em>.</figcaption>
 </figure>
 
