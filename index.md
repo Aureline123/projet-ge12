@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 <figure style="text-align: center;">
-  <img src="images/Capture d'écran 2025-06-19 111305.png" alt="Carte 1" width=100>
+  <img src="images/Capture d'écran 2025-06-21 202508.png" alt="Carte 1" width=100>
   <figcaption><em></em>.</figcaption>
 </figure> 
 
