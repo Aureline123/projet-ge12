@@ -6,7 +6,7 @@ in_menu: true
 <style>
   table {
     margin: auto; /* centre le tableau */
-    font-size: 0.8em; /* réduit la taille du texte */
+    font-size: 0.5em; /* réduit la taille du texte */
     border-collapse: collapse;
     width: 90%; /* ajuste la largeur si besoin */
   }
