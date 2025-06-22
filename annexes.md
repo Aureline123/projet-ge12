@@ -85,16 +85,16 @@ in_menu: true
     </tr>
     <tr>
       <td>Type de représentation dans Magrit</td>
-      <td>Choroplète</td>
-      <td>Choroplète</td>
-      <td>Choroplète</td>
+      <td>Choroplèthe</td>
+      <td>Choroplèthe</td>
+      <td>Choroplèthe</td>
       <td>Symboles proportionnels</td>
-      <td>Symboles proportionnels</td>
-      <td>Choroplète</td>
       <td>Symboles proportionnels</td>
       <td>Choroplèthe</td>
       <td>Symboles proportionnels</td>
-      <td>Choroplète</td>
+      <td>Choroplèthe</td>
+      <td>Symboles proportionnels</td>
+      <td>Choroplèthe</td>
     </tr>
   </tbody>
 </table> 
