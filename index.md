@@ -3,7 +3,10 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-<img src="images/Capture_ecran_2025-06-21_202508.png" width="300" alt="">
+<figure style="text-align: center;">
+  <img src="images/Capture d'écran 2025-06-19 111305.png" alt="Carte 1" width=100>
+  <figcaption><em></em>.</figcaption>
+</figure> 
 
 
 # Introduction
