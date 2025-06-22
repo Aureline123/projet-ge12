@@ -3,7 +3,6 @@ title: "Conclusion"
 order: 4
 in_menu: true
 ---
-# Conclusion
 Ce projet nous a permis de mesurer l’ampleur et la quantité de données nécessaires à analyser et à répertorier pour comprendre les phénomènes d’inégalités en lien avec les territoires. Nous avons pu constater ces inégalités dès la première carte présentant le taux de réussite au DNB par région. Néanmoins, comprendre les facteurs et les causes s’est avéré plus complexe. Nous avons pu remarquer la présence d’un plus grand nombre de collèges privés peut être considérée comme un facteur indiquant un système éducatif plus privilégié et mieux accompagné.
 
 Cependant, les facteurs que nous avons choisis, que ce soit de l’indice d’éloignement comparé au taux de réussite, ou encore de la présence de collèges en fonction de l’âge moyen des communes dans le département du Maine-et-Loire ne nous ont pas permis de conclure à une véritable corrélation.
