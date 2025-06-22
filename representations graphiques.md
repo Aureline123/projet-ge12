@@ -33,7 +33,7 @@ Ainsi, cette carte est utile pour repérer certaines tendances, mais elle doit �
 Il apparaît que le taux de réussite au DNB le plus élevé concerne les départements de Loire Atlantique et de la Mayenne. En revanche, celui qui enregistre le plus faible est la Sarthe, et dans ce dernier département les collèges publics présentent davantage de candidats. Enfin concernant les départements de la Vendée et du Maine et Loire les résultats au DNB sont globalement très bons et la répartition entre élèves du public et du privé est assez homogène. Dans ces deux exemples, les élèves sont légèrement plus nombreux à venir du public que du privé. Il est évident que ces données ne permettent pas d'établir avec certitude de lien puisque le taux de réussite renseigné est global et non distinct selon l’origine des élèves. Il convient alors d’étudier le taux de réussite au DNB dans le privé et dans le public pour affiner le lien entre réussite et collège d’origine
 
 <figure style="text-align: center;">
-  <img src="images/taux-de-reussite-et-colleges-prives-region.png" alt="Carte 4" >
+  <img src="images/taux-de-reussite-et-colleges-prives-region.jpg" alt="Carte 4" >
   <figcaption><em>Carte 4</em> .</figcaption>
 </figure>
 L’étude comparée du taux de réussite au DNB dans les établissements privés et publics des départements de la région Pays de la Loire montre très clairement des disparités notables entre les deux types d’établissements.
@@ -102,7 +102,7 @@ Une distance école-domicile pourrait influer sur la réussite scolaire des él�
 Ainsi, on peut conclure sur la bonne répartition des collèges dans le département Maine-et-Loire et sur le faible impact de la distance école-domicile sur la réussite au Diplôme National du Brevet dans ce département.
 
 <figure style="text-align: center;">
-  <img src="images/indice-d'eloignement.png" alt="Carte 9" >
+  <img src="images/indice-d'eloignement.jpg" alt="Carte 9" >
   <figcaption><em>Carte 9</em>.</figcaption>
 </figure>
 Cette carte permet de croiser l’indice d’éloignement moyen des collèges avec le nombre de mentions obtenues par départements. Nous observons notamment que le département de la Loire-Atlantique est le département ayant obtenu le plus de mentions au Diplôme National du brevet et ayant un indice d’éloignement le plus faible. On peut également une corrélation pour le département Mayenne qui possède l’indice d’éloignement le plus haut et le nombre de mentions le plus faible. L’indice d’éloignement correspond à une distance école-domicile moyenne par département. Comme évoqué précédemment dans une autre carte, cette distance doit être la plus faible possible afin de ne pas générer de la fatigue et du stress aux collégiens. 
