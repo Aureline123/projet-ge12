@@ -51,7 +51,7 @@ Cette comparaison met clairement en évidence une tendance régionale : les coll
 
 <figure style="text-align: center;">
   <img src="images/nombre-heure-absences-nationale.png" alt="Nombre d'heures d'absences - nationale">
-  <figcaption><em>Carte 5 </em>.</figcaption>
+  <figcaption><em>Carte 5</em>.</figcaption>
 </figure>
 
 <figure style="text-align: center;">
