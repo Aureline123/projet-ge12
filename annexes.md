@@ -109,26 +109,26 @@ in_menu: true
 
 <figure style="text-align: center;">
   <img src="images/diagramme 5 classes.png" alt="Carte 1">
-  <figcaption><em>Annexe 1 : Diagramme de distribution du taux de réussite par régions </em>.</figcaption>
+  <figcaption><em>Annexe 1 : Diagramme de distribution du taux de réussite par régions</em>.</figcaption>
 </figure>
 
 <figure style="text-align: center;">
   <img src="images/diagramme 4 classes.png" alt="Carte 1">
-  <figcaption><em>Annexe 1 : Diagramme de distribution du taux de réussite par département en France</em>.</figcaption>
+  <figcaption><em>Annexe 2 : Diagramme de distribution du taux de réussite par département en France</em>.</figcaption>
 </figure>
 
 <figure style="text-align: center;">
   <img src="images/diagramme taux 3 classes.png" alt="Carte 1">
-  <figcaption><em>Annexe 1 : Diagramme de distribution du taux de réussite par département en Maine-et-Loire</em>.</figcaption>
+  <figcaption><em>Annexe 3 : Diagramme de distribution du taux de réussite par département en Maine-et-Loire</em>.</figcaption>
 </figure>
 
 
 <figure style="text-align: center;">
   <img src="images/Capture d'écran 2025-06-22 181332.png" alt="Carte 1">
-  <figcaption><em>Annexe 1 : Diagramme de distribution de l'âge moyen par communes</em>.</figcaption>
+  <figcaption><em>Annexe 4 : Diagramme de distribution de l'âge moyen par communes</em>.</figcaption>
 </figure>
 
 <figure style="text-align: center;">
   <img src="images/Capture d'écran 2025-06-22 185903.png" alt="Carte 1">
-  <figcaption><em>Annexe 2 : Diagramme de distribution de l'indice d'éloignement</em>.</figcaption>
+  <figcaption><em>Annexe 5 : Diagramme de distribution de l'indice d'éloignement</em>.</figcaption>
 </figure> 
