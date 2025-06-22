@@ -3,7 +3,26 @@ title: "Annexes"
 order: 5
 in_menu: true
 ---
-<table border="1">
+<style>
+  table {
+    margin: auto; /* centre le tableau */
+    font-size: 0.8em; /* réduit la taille du texte */
+    border-collapse: collapse;
+    width: 90%; /* ajuste la largeur si besoin */
+  }
+
+  th, td {
+    border: 1px solid #000;
+    padding: 6px;
+    text-align: center;
+  }
+
+  thead {
+    background-color: #f2f2f2;
+  }
+</style>
+
+<table>
   <thead>
     <tr>
       <th>Carte</th>
@@ -86,7 +105,8 @@ in_menu: true
       <td>Choroplèthe</td>
     </tr>
   </tbody>
-</table> 
+</table>
+
 
 <figure style="text-align: center;">
   <img src="images/Capture d'écran 2025-06-22 181332.png" alt="Carte 1">
