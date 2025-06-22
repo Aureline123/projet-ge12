@@ -16,7 +16,7 @@ La carte du taux de réussite au Diplôme National du Brevet (DNB) par régions 
 #### Collèges privés et publics
 
 <figure style="text-align: center;">
-  <img src="{% link images/repartition-des-collèges-privés.png %}" alt="Carte 2" >
+  <img src="{% link images/repartition-des-colleges-prives.png %}" alt="Carte 2" >
   <figcaption><em>Carte 2</em> .</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Ainsi, cette carte est utile pour repérer certaines tendances, mais elle doit �
 Il apparaît que le taux de réussite au DNB le plus élevé concerne les départements de Loire Atlantique et de la Mayenne. En revanche, celui qui enregistre le plus faible est la Sarthe, et dans ce dernier département les collèges publics présentent davantage de candidats. Enfin concernant les départements de la Vendée et du Maine et Loire les résultats au DNB sont globalement très bons et la répartition entre élèves du public et du privé est assez homogène. Dans ces deux exemples, les élèves sont légèrement plus nombreux à venir du public que du privé. Il est évident que ces données ne permettent pas d'établir avec certitude de lien puisque le taux de réussite renseigné est global et non distinct selon l’origine des élèves. Il convient alors d’étudier le taux de réussite au DNB dans le privé et dans le public pour affiner le lien entre réussite et collège d’origine
 
 <figure style="text-align: center;">
-  <img src="{% link images/taux-de-reussite-et-collèges-privés-region.png %}" alt="Carte 4" >
+  <img src="{% link images/taux-de-reussite-et-colleges-prives-region.png %}" alt="Carte 4" >
   <figcaption><em>Carte 4</em> .</figcaption>
 </figure>
 L’étude comparée du taux de réussite au DNB dans les établissements privés et publics des départements de la région Pays de la Loire montre très clairement des disparités notables entre les deux types d’établissements.
