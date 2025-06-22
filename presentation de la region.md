@@ -8,3 +8,8 @@ Le département Maine et Loire (49) est un département français qui se situe d
 Concernant la situation économique du département, le territoire dispose d’un tissu économique diversifié avec de l’activité dans les secteurs de l’agroalimentaire (Charal, Biscotte Pasquier, Rémy Cointreau), de la mécanique (pneumatique Michelin, Thales), de la santé, de la logistique et du végétal. De plus, Angers est un pôle universitaire et un centre de technologies numériques et de recherche (La French Tech Angers), ce qui attire les investissements et les emplois qualifiés. 
 
 Néanmoins, malgré ces atouts, certains territoires du département sont dans une situation de fragilité socio-économique particulièrement dans les territoires ruraux ou ceux en reconversion ou désindustrialisation. Une part non négligeable de la population vit sous le seuil de pauvreté et perçoit des aides sociales (RSA). 
+
+<figure style="text-align: center;">
+  <img src="images/Capture d'écran 2025-06-19 111305.png" alt="Carte 1">
+  <figcaption><em></em>.</figcaption>
+</figure> 
