@@ -1,5 +1,5 @@
 ---
-title: "Présentation de la région"
+title: "Présentation du département"
 order: 1
 in_menu: true
 ---
