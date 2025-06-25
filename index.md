@@ -3,6 +3,12 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 <figure>
   <img src="images/Capture d'écran 2025-06-21 202508.png" alt="Carte 1" width=200>
   <figcaption><em></em></figcaption>
