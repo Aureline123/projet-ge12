@@ -81,7 +81,7 @@ Néanmoins, deux cas viennent nuancer cette relation : les départements de la L
   <img src="images/zoom rsa.png" alt="Carte 1">
   <figcaption><em>Zoom sur la ville d'Angers</em>.</figcaption>
 </figure>
-Sur cette carte, nous avons voulu vérifier si l’intuition selon laquelle il pourrait exister une corrélation entre précarité sociale et réussite scolaire se confirmait. Les résultats ne sautent pas aux yeux immédiatement. Néanmoins, si l’on se focalise sur le centre urbain du département, on peut noter une assez forte concentration de foyers précaires où le taux de réussite au brevet est compris entre 85 % et 77 %, ce qui est relativement faible sur notre échelle. Tandis que, dans quelques communes du centre et de l’Est où le taux de réussite au brevet est de 100 %, on observe que le nombre de foyers précaires y est assez bas.
+Sur cette carte, nous avons voulu vérifier si l’intuition selon laquelle il pourrait exister une corrélation entre précarité sociale et réussite scolaire se confirmait. Les résultats ne sautent pas aux yeux immédiatement. Néanmoins, si l’on se focalise sur le centre urbain du département, on peut noter une assez forte concentration de foyers précaires où le taux de réussite au brevet est compris entre 77 % et 85 %, ce qui est relativement faible sur notre échelle. Tandis que, dans quelques communes du centre et de l’Est où le taux de réussite au brevet est de 100 %, on observe que le nombre de foyers précaires y est assez bas.
 
 Cela ne suffit pas à prouver formellement l’existence d’un lien. Néanmoins, cela révèle une certaine fracture sociale et scolaire, où les territoires défavorisés sont aussi les endroits où les jeunes réussissent moins bien le brevet. 
 
