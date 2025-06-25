@@ -3,6 +3,12 @@ title: "Représentations graphiques"
 order: 2
 in_menu: true
 ---
+<style>
+  body {
+    text-align: justify;
+  }
+</style>
+
 #### Taux de réussite au brevet par régions
 <figure style="text-align: center;">
   <img src="images/taux-de-reussite.png" alt="Carte 1">
